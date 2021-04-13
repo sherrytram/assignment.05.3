@@ -20,3 +20,19 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+.statesheading {
+  text-align: center;
+}
+
+.count {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.bluebear {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
